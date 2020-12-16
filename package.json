@@ -1,0 +1,20 @@
+{
+  "name": "findInFile",
+  "version": "1.0.0",
+  "description": "drop file(s) in a destination directory and search for matching values",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petewanca/findInFile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petewanca/findInFile/issues"
+  },
+  "homepage": "https://github.com/petewanca/findInFile#readme"
+}
